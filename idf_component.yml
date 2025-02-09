@@ -1,0 +1,7 @@
+## IDF Component Manager Manifest File
+version: "0.0.1"
+description: "Shared components for HomeSoul project"
+dependencies:
+  espressif/esp-modbus: "^2.0.1~1"
+  idf:
+    version: ">=4.1.0"
